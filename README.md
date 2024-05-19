@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laura
-- 👀 I’m interested in computer vision, AI and music
-- 🌱 I’m currently learning Rust and NLP
+- 👀 I’m interested in AI, llms, computer vision and music
+- 🌱 I’m currently learning Rust and llms
 - 💞️ I’m looking to collaborate on machine learning and data science applied on subjects that matters (Healthcare, social etc.)
 - 📫 How to reach me : https://www.linkedin.com/in/laura-dt/
 
